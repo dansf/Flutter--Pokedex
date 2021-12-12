@@ -3,7 +3,7 @@
 </h2>
 
 
-#### Projeto em Kotlin
+#### Projeto em Kotlin:
 
 Link: [https://github.com/dansf/DevKotlin--Pokedex](https://github.com/dansf/DevKotlin--Pokedex)
 
